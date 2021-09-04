@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+This is a movie showing app which fetches movies from the api. The app shows three sections of movies namely popular, top-rated and upcoming.
 
 ## Getting Started
 
