@@ -10,8 +10,8 @@ NOTE:Make sure your Flutter environment is <a href="https://flutter.dev/docs/get
 
 In the command terminal, run the following commands:
 
-    $ git clone git@github.com:ShyamKrishna122/Grocery_APP.git
-    $ cd Grocery-APP-Flutter/
+    $ git clone https://github.com/ShyamKrishna122/movie_app.git
+    $ cd movie_app/
 
 ##### Start your Flutter project by running the command:
     $ flutter run
