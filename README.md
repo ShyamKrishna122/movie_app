@@ -4,10 +4,6 @@ This is a movie showing app which fetches movies from the api. The app shows thr
 
 API used from: <a href="https://www.themoviedb.org/">themoviedb</a>
 
-## DEMO:
-
-Download apk from: <a href="https://drive.google.com/file/d/1VgXE_eJZ5AVCmvTwWupucQ-uTn_ms2e0/view?usp=sharing">movie_app</a>
-
 ## Getting Started
 
 NOTE:Make sure your Flutter environment is <a href="https://flutter.dev/docs/get-started/install">setup</a>.
