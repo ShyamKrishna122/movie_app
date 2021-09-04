@@ -1,4 +1,4 @@
-const String API_KEY = "03af7587c35a079e4911ffbd7f6ea916";
+const String API_KEY = "Your API KEY";
 const String POPULAR_API_URL =
     "https://api.themoviedb.org/3/movie/popular?api_key=$API_KEY&language=en-US&page=1";
 const String TOP_RATED_API_URL =
